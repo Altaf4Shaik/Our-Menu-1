@@ -1,0 +1,33 @@
+* { box-sizing: border-box; } 
+
+ body { background-color: white; }
+
+  h1 { margin: 15px; text-align: center;                 font-family: Helvetica; font-weight: bold; font-size: 175%; }
+
+section{
+    width: 90%;
+    margin:0 auto;
+    border: 1px solid #000;
+    margin-bottom:15px;
+    position: relative ;
+    background-color: grey;
+}
+
+h3{
+    position: absolute ;
+    top: 0;
+    right: 0;
+    border: 1px solid #143;
+    padding: 5px 25px;
+    margin:0;
+    background-color:red;
+}
+.blue { background-color: blue;}
+.pink{background-color: pink;}
+
+.content{
+    margin: 10px 10px;
+    margin-top:40px; 
+    
+   
+}
